@@ -1,0 +1,23 @@
+{
+  "name": "angular-ui-resource-picker",
+  "homepage": "https://github.com/InnovaLangues/angular-ui-resource-picker",
+  "authors": [
+    "Elorfin <penin.axel@gmail.com>"
+  ],
+  "description": "Provides interaction with Claroline Resource Picker",
+  "main": "angular-resource-picker.js",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "resource-picker",
+    "claroline"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
