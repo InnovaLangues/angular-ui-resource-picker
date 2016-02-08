@@ -1,0 +1,21 @@
+{
+  "name": "angular-ui-resource-picker",
+  "version": "1.0.0",
+  "description": "Provides interaction with Claroline Resource Picker",
+  "main": "angular-resource-picker.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InnovaLangues/angular-ui-resource-picker.git"
+  },
+  "keywords": [
+    "angular",
+    "resource-picker",
+    "claroline"
+  ],
+  "author": "Elorfin <penin.axel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InnovaLangues/angular-ui-resource-picker/issues"
+  },
+  "homepage": "https://github.com/InnovaLangues/angular-ui-resource-picker#readme"
+}
